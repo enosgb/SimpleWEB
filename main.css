@@ -19,7 +19,7 @@ li{
 .light-theme{
     --bg: var(--green);
     --fontColor: var(--black);
-    --btnBg: var(--green);
+    --btnBg: var(--white);
     --btnFontColor: var(--black);
 }
 .dark-theme {
